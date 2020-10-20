@@ -1,7 +1,18 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  <b>Game Developer:</b>
+  - Unity
+  
+  <b>2D Artist:</b>
+  - Photoshop
+  - Gimp
+  - Ilustrator
+  
+  Feel free to contact me:
+  
+  - email: monster.on.hill@gmail.com
+  - phone: +385 95 353 0849
   <br><br>
   Second description 
   <br><br>
