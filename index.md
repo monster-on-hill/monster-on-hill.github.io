@@ -5,9 +5,9 @@
 ### My Video Games 
 
 [Desert Havoc](https://d4centertainment.itch.io/desert)
-<img src="https://images/DesHAv1.png?raw=true"/>
+<img src="https://images/DesHAv1.png?raw=false"/>
 <br>
-<img src="https://images/DesHAv2.png?raw=true"/>
+<img src="https://images/DesHAv2.png?raw=false"/>
 
 ---
 [Legacies of Extinction](https://policeproduction.itch.io/legacies-of-extinction)
@@ -20,8 +20,7 @@
 <img src="images/Leg4.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
