@@ -5,9 +5,9 @@
 ### My Video Games 
 
 [Desert Havoc](https://d4centertainment.itch.io/desert)
-<img src="https://images/DesHav1.png?raw=false"/>
+<img src="https://images/DesHAv1.png?raw=true"/>
 <br>
-<img src="https://images/DesHav2.png?raw=false"/>
+<img src="https://images/DesHAv2.png?raw=true"/>
 
 ---
 [Legacies of Extinction](https://policeproduction.itch.io/legacies-of-extinction)
