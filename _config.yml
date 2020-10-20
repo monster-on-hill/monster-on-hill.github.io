@@ -19,9 +19,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <b>Feel free to contact me at:</b>
   <br>
-  - email: monster.on.hill@gmail.com
+  <a href="mailto:monster.on.hill@gmail.com">- email</a>
   <br>
-  - phone: +385 95 353 0849
+  - phone:  <a href="tel:+385953530849">+385 95 353 0849</a>
   <br><br>
   
   <a href="https://www.linkedin.com/in/stjepan-horvat-92391618a/">View My LinkedIn Profile</a> 
