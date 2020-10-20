@@ -2,20 +2,28 @@ title: John Doe # your name (or website title) here
 logo: "/images/Profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b>Game Developer:</b>
+  <br>
   - Unity
+  <br>
+  <br>
   
-  <b>2D Artist:</b>
+  <b>2D Artist:</b> 
+  <br>
   - Photoshop
+  <br>
   - Gimp
+  <br>
   - Ilustrator
+  <br>
+  <br>
   
   Feel free to contact me:
-  
+  <br>
   - email: monster.on.hill@gmail.com
+  <br>
   - phone: +385 95 353 0849
   <br><br>
-  Second description 
-  <br><br>
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
