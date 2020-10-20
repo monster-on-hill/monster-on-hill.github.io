@@ -2,34 +2,27 @@
 
 ---
 
-### Category Name 1 
+### My Video Games 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Desert Havoc](https://d4centertainment.itch.io/desert)
+<img src="https://images/DesHav1.png?raw=true"/>
+<br>
+<img src="https://images/DesHav2.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Legacies of Extinction](https://policeproduction.itch.io/legacies-of-extinction)
+<img src="images/Leg1.png?raw=true"/>
+<br>
+<img src="images/Leg2.png?raw=true"/>
+<br>
+<img src="images/Leg3.png?raw=true"/>
+<br>
+<img src="images/Leg4.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
